@@ -1,6 +1,19 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun factGot it! Here's the updated version with a friendly touch and emojis:<br><br>I’m currently working on two projects. One is a personal project—a simple chatting website 💬 similar to Discord. The other is a client project for a clothing brand’s e-commerce website 👕🛒.<br><br>I’m open to teaming up on web and app projects 🤝 and would love to contribute, especially using JavaScript or TypeScript 💻. I haven’t contributed to any open-source projects yet, but I’m definitely interested in starting. I’m exploring TypeScript right now and might need help with it—especially when it comes to chat security 🔐 for my chat app.<br><br>I’m also planning to explore Flutter or React Native 📱 to build mobile applications. I’m a good listener 👂, enjoy hearing ideas 💡, and love helping others when I can. I’m confident with both frontend and backend technologies 🌐 and always happy to support fellow developers.<br><br>Outside of coding, I enjoy playing chess ♟️ and badminton 🏸. 
+💬 I’m currently working on two exciting projects!  
+One is a personal chatting website similar to Discord, and the other is a client project for a clothing brand's e-commerce website 👕🛒.
 
+🤝 I’m open to collaborating on web and app projects.  
+I enjoy working with JavaScript and TypeScript, and I’d love to contribute to meaningful projects in those languages.
+
+🧩 I haven’t contributed to any open-source projects yet, but I’m really eager to get started and learn from others.
+
+🔐 I’m currently exploring TypeScript and diving into some concepts around chat security for my messaging app.
+
+📱 I also plan to explore mobile development using Flutter or React Native soon.
+
+👂 I’m a good listener and enjoy hearing others' ideas.  
+I’m confident discussing both frontend and backend tech and always happy to help where I can.
+
+🎯 Outside of coding, I enjoy playing chess ♟️ and badminton 🏸.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pratham-rathod-114b94262) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prathod2602005@gmail.com) 
