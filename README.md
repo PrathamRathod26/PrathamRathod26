@@ -23,6 +23,7 @@ I’m confident discussing both frontend and backend tech and always happy to he
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=PrathamRathod26&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathamRathod26&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=PrathamRathod26&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PrathamRathod26&icon=0&color=0)](https://visitcount.itsvg.in)
