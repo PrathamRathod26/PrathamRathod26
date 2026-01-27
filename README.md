@@ -1,4 +1,4 @@
-# Hi there, I'm Pratham Rathod! 👋
+# Hi there, I'm Pratham Rathod!
 
 I'm a final-year **B.Tech student in Information & Communication Technology** at **Adani University**, passionate about building scalable web applications and exploring the depths of Data Science.
 
@@ -6,14 +6,15 @@ I am a **Full Stack Developer enthusiast** actively looking for an entry-level j
 
 ---
 
-### 💫 About Me
+### About Me
 
-- 🎓 **Education:** Pursuing B.Tech in ICT (2022 – Present).
-- 🔭 **Currently Working On:** - A comprehensive **E-commerce Website** (focusing on End-to-End System Design).
+- **Education:** Pursuing B.Tech in ICT (2022 – Present).
+- **Currently Working On:**
+  - A comprehensive **E-commerce Website** (focusing on End-to-End System Design).
   - A **Real-time Chat Application** to master WebSockets and communication protocols.
-- 🌱 **Currently Learning:** Deepening my knowledge in **Spring Boot**, **Microservices**, and **Deep Learning/Computer Vision**.
-- 👯 **Looking For:** Entry-level opportunities in Full Stack Development.
-- ⚡ **Fun Fact:** When I'm not coding, I'm likely playing **Badminton**, **trekking**, or experimenting in the kitchen (ask me about my **no-bake cheesecake** 🍰).
+- **Currently Learning:** Deepening my knowledge in **Spring Boot**, and  **Microservices**.
+- **Looking For:** Entry-level opportunities in Full Stack Development.
+- **Fun Fact:** When I'm not coding, I'm likely playing **Badminton**, or **trekking**.
 
 ---
 
@@ -31,20 +32,16 @@ I am a **Full Stack Developer enthusiast** actively looking for an entry-level j
 
 ### 🛠 Projects
 
+- **Evently - Event Management and RSVP platform:** A web platform designed to streamline event scheduling, attendee registration, and RSVP tracking.
 - **E-Commerce Platform:** A scalable backend system built with **Spring Boot**, focusing on clean architecture and system design principles.
 - **Real-Time Chat App:** A messaging application leveraging **WebSockets** for instant communication.
-- **Deep Learning Experiments:** Exploring computer vision and model training (e.g., Helmet Detection).
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrathamRathod26&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathamRathod26&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph" />
-</div>
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=PrathamRathod26&theme=transparent&hide_border=false" height="150" alt="streak graph" />
 </div>
 
 ---
