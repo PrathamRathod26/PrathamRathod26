@@ -38,14 +38,6 @@ I am a **Full Stack Developer enthusiast** actively looking for an entry-level j
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathamRathod26&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph" />
-</div>
-
----
-
 ### 📬 Connect with me
 
 <p align="left">
