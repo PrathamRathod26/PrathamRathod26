@@ -1,19 +1,16 @@
 # Hi there, I'm Pratham Rathod!
 
-I'm a final-year **B.Tech student in Information & Communication Technology** at **Adani University**, passionate about building scalable web applications and exploring the depths of Data Science.
+I'm a **B.Tech graduate in Information & Communication Technology** from **Adani University**, passionate about building scalable web applications and exploring the depths of Data Science.
 
 I am a **Full Stack Developer enthusiast** actively looking for an entry-level job where I can apply my skills in Java, Python, and JavaScript stacks.
 
 ---
 ### About Me
 
-- **Education:** Bachelor of Technology in Information and Communication Technology (2022 – Present).
-- **Currently Working On:**
-  - A comprehensive **Hospital Management System** (focusing on End-to-End System Design, RBAC, and clean architecture).
-  - An **Expense Tracker** application to master complex data aggregations and interactive frontend visualizations.
+- **Education:** Bachelor of Technology in Information and Communication Technology (Graduated 2026).
+- **Currently Working On:** A full-featured **Java Chess Application** (focusing on strict Object-Oriented design, complex move validation, and game state management).
 - **Currently Learning:** Deepening my knowledge in **Spring Boot**, **Angular**, and cloud deployment strategies.
-- **Looking For:** Entry-level roles in Full Stack Development or Backend Engineering.
-- **Fun Fact:** When I'm not coding, I'm likely playing **Badminton**, or **trekking**.
+- **Fun Fact:** When I'm not coding, I'm likely playing **Badminton** or **trekking**.
 
 ---
 ### Tech Stack
@@ -43,6 +40,8 @@ I am a **Full Stack Developer enthusiast** actively looking for an entry-level j
 
 ### Projects
 
+- **♟️ Java Chess Application:** A fully functional chess game featuring complete move validation, check/checkmate detection, and robust state management. Built utilizing core Object-Oriented Programming principles and clean architecture design.
+  - *Tech Stack:* Java.
 - **🏥 Hospital Management System:** A comprehensive full-stack application designed to streamline hospital operations. Features include role-based access control (RBAC) for Admins, Doctors, Patients, and Staff. Supports advanced scheduling, appointment bookings, medical record document uploads, and prescription management.
   - *Tech Stack:* Java 21, Spring Boot, PostgreSQL, JWT, Angular 21, Angular Material.
 - **💰 Expense Tracker System:** A personal finance management application that allows users to track, categorize, and analyze their income and expenses. Features an interactive dashboard with real-time dynamic charts and CSV export capabilities.
@@ -50,8 +49,7 @@ I am a **Full Stack Developer enthusiast** actively looking for an entry-level j
 - **📅 Evently - Event Management & RSVP Platform:** A robust, full-stack web platform designed to streamline event scheduling, attendee registration, and RSVP tracking. Built with seamless user experiences in mind, it provides robust RESTful APIs for end-to-end event lifecycle management.
   - *Tech Stack:* PostgreSQL, Express.js, React, Node.js.
 - **🛒 E-Commerce Platform:** A highly scalable full-stack e-commerce solution featuring a product catalog, secure shopping cart, and user management. The backend leverages clean architecture and system design principles for optimal performance, while the frontend delivers a responsive shopping experience.
-  - *Tech Stack:* Java 17, Spring Boot, PostgreSQL, React.js .
-
+  - *Tech Stack:* Java 17, Spring Boot, PostgreSQL, React.js.
 
 ---
 
@@ -62,8 +60,7 @@ I am a **Full Stack Developer enthusiast** actively looking for an entry-level j
 <a href="mailto:prathod2602005@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email" height="30" /></a>
 </p>
 
-<p align="right">
-</p>
+---
 
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad."</i><br>
